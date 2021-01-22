@@ -1,2 +1,2 @@
 # Nelsonel-Tech-Solutions
-Provide software , networking, database and website design
+Software, database and website developers
